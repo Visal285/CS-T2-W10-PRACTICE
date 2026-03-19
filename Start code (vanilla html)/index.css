@@ -30,10 +30,10 @@ section {
   height: 40px;
   border: 1px solid #575757;
   margin: 1rem 0;
-  background: #fde5e5;
+  background: #1c1717;
 }
 
-.healthbar__value {
+.healthbar__v alue {
   background-color: #00a876;
   width: 100%;
   height: 100%;
